@@ -1,4 +1,4 @@
-Date,Hour,Temperature(¡ÆC),Humidity(%),Wind speed (m/s),Visibility (10m),Dew point temperature(¡ÆC),Solar Radiation (MJ/m2),Rainfall(mm),Snowfall (cm),Seasons,Holiday,Functioning Day
+Date,Hour,Temperature(Â¡Ã†C),Humidity(%),Wind speed (m/s),Visibility (10m),Dew point temperature(Â¡Ã†C),Solar Radiation (MJ/m2),Rainfall(mm),Snowfall (cm),Seasons,Holiday,Functioning Day
 11/07/2018,22,27.1,79,1.2,1578,23.1,0,0,0,Summer,No Holiday,Yes
 28/11/2018,11,5.7,15,1.1,1419,-19,0.98,0,0,Autumn,No Holiday,Yes
 18/04/2018,15,19,21,3.3,1716,-3.8,2.88,0,0,Spring,No Holiday,Yes
